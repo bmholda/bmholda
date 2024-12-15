@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an AI Generator using Next.js, Prisma, TailwindCSS, TypeScript, and Dall-E API<br>I'm looking to collaborate on a 2D co-op game where friends can play together and complete tasks<br>I'm looking for help with training an AI to play a video game more me<br>I'm currently learning how to reverse-engineer an API<br>Ask me about anime<br>Fun fact: The first-ever computer "bug" was an actual bug! In 1947, computer scientists working on the Harvard Mark II found a moth stuck in a relay, causing a malfunction. They taped the moth into their logbook with the caption: "First actual case of bug being found." This is where the term "debugging" comes from! 🐛💻
+I'm currently working on an AI Generator using Next.js, Prisma, TailwindCSS, TypeScript, and Dall-E API<br>I'm looking to collaborate on a 2D co-op game where friends can play together and complete tasks<br>I'm looking for help with training an AI to play a video game fore me<br>I'm currently learning how to reverse-engineer an API<br>Ask me about anime<br>Fun fact: The first-ever computer "bug" was an actual bug! In 1947, computer scientists working on the Harvard Mark II found a moth stuck in a relay, causing a malfunction. They taped the moth into their logbook with the caption: "First actual case of bug being found." This is where the term "debugging" comes from! 🐛💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brandonholda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonholda/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@brandonholda) 
@@ -21,19 +21,3 @@ I'm currently working on an AI Generator using Next.js, Prisma, TailwindCSS, Typ
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bmh57) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**bmholda/bmholda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
